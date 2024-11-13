@@ -1,0 +1,15 @@
+D:\Github\Vidz2Gifs\Vidz2Gifs\bin\Release\Vidz2GIF.exe.config
+D:\Github\Vidz2Gifs\Vidz2Gifs\bin\Release\Vidz2GIF.exe
+D:\Github\Vidz2Gifs\Vidz2Gifs\bin\Release\Vidz2GIF.pdb
+D:\Github\Vidz2Gifs\Vidz2Gifs\bin\Release\Newtonsoft.Json.dll
+D:\Github\Vidz2Gifs\Vidz2Gifs\bin\Release\Xabe.FFmpeg.dll
+D:\Github\Vidz2Gifs\Vidz2Gifs\bin\Release\Newtonsoft.Json.xml
+D:\Github\Vidz2Gifs\Vidz2Gifs\bin\Release\Xabe.FFmpeg.xml
+D:\Github\Vidz2Gifs\Vidz2Gifs\obj\Release\Vidz2GIF.csproj.AssemblyReference.cache
+D:\Github\Vidz2Gifs\Vidz2Gifs\obj\Release\VideoToGifConverter.Form1.resources
+D:\Github\Vidz2Gifs\Vidz2Gifs\obj\Release\Vidz2GIF.Properties.Resources.resources
+D:\Github\Vidz2Gifs\Vidz2Gifs\obj\Release\Vidz2GIF.csproj.GenerateResource.cache
+D:\Github\Vidz2Gifs\Vidz2Gifs\obj\Release\Vidz2GIF.csproj.CoreCompileInputs.cache
+D:\Github\Vidz2Gifs\Vidz2Gifs\obj\Release\Vidz2GIF.csproj.Up2Date
+D:\Github\Vidz2Gifs\Vidz2Gifs\obj\Release\Vidz2GIF.exe
+D:\Github\Vidz2Gifs\Vidz2Gifs\obj\Release\Vidz2GIF.pdb
